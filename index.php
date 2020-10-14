@@ -15,19 +15,20 @@
         <style type="text/css">
             body{
                 font-family: Arail, sans-serif;
+		   background-color:powderblue;
             }
             /* Formatting search box */
             .search-box{
                 width: 300px;
                 position: relative;
                 display: inline-block;
-                font-size: 14px;
+                font-size: 16px;
             }
             .search-box input[type="text"]{
                 height: 32px;
                 padding: 5px 10px;
                 border: 1px solid #CCCCCC;
-                font-size: 14px;
+                font-size: 16px;
             }
             .result{
                 position: absolute;        
